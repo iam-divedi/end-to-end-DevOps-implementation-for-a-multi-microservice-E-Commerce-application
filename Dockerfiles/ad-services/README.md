@@ -1,3 +1,4 @@
+
 # 🌟 OpenTelemetry Demo – Ad Service
 
 This repository contains the **Ad Service**, a Java-based microservice that is part of the [OpenTelemetry Demo](https://opentelemetry.io/).  
