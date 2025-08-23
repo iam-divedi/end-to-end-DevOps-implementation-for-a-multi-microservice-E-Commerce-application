@@ -1,3 +1,4 @@
+<img width="1439" height="649" alt="Screenshot 2025-08-21 211546" src="https://github.com/user-attachments/assets/a7cf7a6e-85b5-4a90-98c0-082ed7ab94b6" />
 
 # 🌟 OpenTelemetry Demo – Ad Service
 
