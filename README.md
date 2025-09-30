@@ -1,7 +1,7 @@
 # E-Commerce DevOps Project
 
 
-This repository showcases **practical, real-world DevOps expertise** in deploying and managing a multi-microservice E-Commerce application. It emphasizes **infrastructure provisioning, containerization, orchestration, CI/CD automation, and GitOps workflows**, with a strong focus on **deployment, automation, and modern DevOps best practices**..
+This repository showcases **practical, real-world DevOps expertise** in deploying and managing a multi-microservice E-Commerce application. It emphasizes **infrastructure provisioning, containerization, orchestration, CI/CD automation, and GitOps workflows**, with a strong focus on **deployment, automation, and modern DevOps best practices**.
 
 ---
 
